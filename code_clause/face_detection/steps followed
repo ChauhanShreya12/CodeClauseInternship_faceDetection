@@ -1,0 +1,4 @@
+steps 
+1. In index_html File, right click and then open with live server .
+2. In script.js File, copy-paste the whole code somewhere and then remove the lines from 18 to 29. and then write startVideo() at line 18.
+then ctrl+s . Then remove lines from 3 to 8 also . Then ctrl+s . 
